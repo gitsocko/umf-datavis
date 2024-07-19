@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="rename assignment, add /data, /out">
-      <change afterPath="$PROJECT_DIR$/data/olympic_medals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/titanic.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ica4.py" afterDir="false" />
+    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="ica4">
+      <change afterPath="$PROJECT_DIR$/ica7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/titanic.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,21 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gitsocko"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gitsocko&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gitsocko/umf-datavis.git",
-    "accountId": "5aa4015b-0c43-468e-87cf-06f79ec13a5d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gitsocko/umf-datavis.git&quot;,
+    &quot;accountId&quot;: &quot;5aa4015b-0c43-468e-87cf-06f79ec13a5d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jCKtAFcSJBlw7LzdeY9RsCyCMU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.ica3.executor": "Run",
-    "Python.ica4.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ica3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ica4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.ica4">
     <configuration name="ica3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="umf-datavis" />
@@ -135,13 +134,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720886572362</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ica4">
+      <option name="closed" value="true" />
+      <created>1720916165375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720916165375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ICA3" />
     <MESSAGE value="rename assignment, add /data, /out" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename assignment, add /data, /out" />
+    <MESSAGE value="ica4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ica4" />
   </component>
 </project>
