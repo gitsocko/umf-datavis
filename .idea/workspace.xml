@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="ica4 csv">
-      <change afterPath="$PROJECT_DIR$/data/boxoffice.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ica7.py" afterDir="false" />
+    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="ica7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721421695104</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ica7">
+      <option name="closed" value="true" />
+      <created>1721423068086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721423068086</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +196,7 @@
     <MESSAGE value="rename assignment, add /data, /out" />
     <MESSAGE value="ica4" />
     <MESSAGE value="ica4 csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="ica4 csv" />
+    <MESSAGE value="ica7" />
+    <option name="LAST_COMMIT_MESSAGE" value="ica7" />
   </component>
 </project>
