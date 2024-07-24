@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="ica7 url mod">
-      <change afterPath="$PROJECT_DIR$/data/Housing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pjMidterm.py" afterDir="false" />
+    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="pjMidterm">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/WorldCupMatches.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/hw3Q1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +16,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -51,14 +52,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.hw3.executor": "Run",
     "Python.ica3.executor": "Run",
     "Python.ica4.executor": "Run",
     "Python.ica7.executor": "Run",
     "Python.main.executor": "Run",
     "Python.pjMidterm.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RunManager">
@@ -207,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721424002298</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pjMidterm">
+      <option name="closed" value="true" />
+      <created>1721788443907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721788443907</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +253,7 @@
     <MESSAGE value="ica7" />
     <MESSAGE value="ica7 urls" />
     <MESSAGE value="ica7 url mod" />
-    <option name="LAST_COMMIT_MESSAGE" value="ica7 url mod" />
+    <MESSAGE value="pjMidterm" />
+    <option name="LAST_COMMIT_MESSAGE" value="pjMidterm" />
   </component>
 </project>
