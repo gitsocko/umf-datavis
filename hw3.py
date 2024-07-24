@@ -37,6 +37,7 @@ def q3():
 
 
 def q4():
+    # plt.style.use('seaborn-white')  # This did not work in my version of Python (deprecated style)
     sns.displot(tg, x="Home Team Goals", hue="Year", kind="kde", height=7, aspect=1.5, palette="bright", legend=True)
     sns.displot(tg, x="Away Team Goals", hue="Year", kind="kde", height=7, aspect=1.5, palette="pastel", legend=True)
     plt.xlabel('Goals')

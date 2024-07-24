@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="pjMidterm">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/WorldCupMatches.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/hw3Q1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="hw3 code cleanup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721788443907</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hw3">
+      <option name="closed" value="true" />
+      <created>1721859675659</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721859675659</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hw3 code cleanup">
+      <option name="closed" value="true" />
+      <created>1721859795615</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721859795615</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +264,8 @@
     <MESSAGE value="ica7 urls" />
     <MESSAGE value="ica7 url mod" />
     <MESSAGE value="pjMidterm" />
-    <option name="LAST_COMMIT_MESSAGE" value="pjMidterm" />
+    <MESSAGE value="hw3" />
+    <MESSAGE value="hw3 code cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3 code cleanup" />
   </component>
 </project>
