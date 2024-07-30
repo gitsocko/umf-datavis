@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="hw3 code cleanup" />
+    <list default="true" id="25e497ed-70a2-4cce-9562-6afa02224e6b" name="Changes" comment="hw3q4 seaborn-white comment">
+      <change afterPath="$PROJECT_DIR$/data/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ica10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ica3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ica03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ica4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ica04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ica7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ica07.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,23 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.hw3.executor": "Run",
-    "Python.ica3.executor": "Run",
-    "Python.ica4.executor": "Run",
-    "Python.ica7.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pjMidterm.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.hw3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ica03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ica10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ica3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ica4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ica7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pjMidterm.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="ica3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="ica03" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="umf-datavis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ica3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ica03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ica4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ica04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="umf-datavis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ica4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ica04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ica7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ica07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="umf-datavis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ica7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ica07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ica7" />
-        <item itemvalue="Python.ica4" />
+        <item itemvalue="Python.ica07" />
+        <item itemvalue="Python.ica04" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721859795615</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hw3q4 seaborn-white comment">
+      <option name="closed" value="true" />
+      <created>1721860063277</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721860063277</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +283,7 @@
     <MESSAGE value="pjMidterm" />
     <MESSAGE value="hw3" />
     <MESSAGE value="hw3 code cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3 code cleanup" />
+    <MESSAGE value="hw3q4 seaborn-white comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3q4 seaborn-white comment" />
   </component>
 </project>
